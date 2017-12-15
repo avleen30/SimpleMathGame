@@ -154,7 +154,7 @@ html {
 }
 
 #gameOver{
-    height: 200px;
+    height: 300px;
     width: 500px;
     font-family: cursive, sans-serif;
     background: linear-gradient(#DCA1A1, #CD5555);
